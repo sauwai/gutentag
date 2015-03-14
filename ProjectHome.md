@@ -1,0 +1,5 @@
+Gutentag is an interactive, user-editable genetic sequence database tool, targeted at molecular biology research groups. It facilitates flexible information labeling and sharing through the use of the web2.0 concept of 'tags'. Gutentag is simple-to-use and easy-to-install.
+
+Our tool is Web 2.0-flavoured, allowing users to do more than just retrieve information. Its focus on user-editability is supported by the use of tags (metadata) associated with genetic sequences. Several methods of retrieving stored data are available including tag-clouds, BLAST and keyword searches. Also, sequence tags related to HGNC gene names, conserved domains (CDD) and GO terms can be automatically generated given sequence data. The tool is constructed using the high-level Python web framework, Django, with a SQLite3 backend.
+
+Gutentag is also registered with the Python package index can be installed using easy-install with the command "easy\_install gutentag"
